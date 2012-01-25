@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+      xmlns:pm="http://www.web-semantics.org/ns/pm#"
+      xmlns:wot="http://xmlns.com/wot/0.1/"
+      xmlns:rss="http://purl.org/rss/1.0/"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:ical="http://www.w3.org/2002/12/cal/ical#"
+      xmlns:doap="http://usefulinc.com/ns/doap#">
+<foaf:Person rdf:ID="dch">
+<foaf:name>Dave Cottlehuber</foaf:name>
+<foaf:givenname>Dave</foaf:givenname>
+<foaf:family_name>Cottlehuber</foaf:family_name>
+<foaf:mbox rdf:resource="mailto:dch@apache.org"/>
+<foaf:homepage rdf:resource="http://muse.net.nz/"/>
+<foaf:OnlineAccount>
+  <foaf:accountName>davecottlehuber</foaf:accountName>
+  <foaf:accountProfilePage rdf:resource="http://twitter.com/davecottlehuber"/>
+  <foaf:accountServiceHomepage rdf:resource="http://twitter.com/"/>
+</foaf:OnlineAccount>
+<wot:hasKey><wot:PubKey><wot:fingerprint>E0AF 0A19 4D55 C84E 4A19  A801 CDB0 C0F9 04F4 EE9B</wot:fingerprint>
+<wot:hex_id>04F4EE9B</wot:hex_id>
+</wot:PubKey>
+</wot:hasKey>
+<foaf:currentProject><doap:Project><pm:name>Apache CouchDB</pm:name>
+<pm:homepage rdf:resource="http://couchdb.apache.org/"/>
+</doap:Project>
+</foaf:currentProject>
+</foaf:Person>
+</rdf:RDF>
+
