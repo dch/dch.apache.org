@@ -18,7 +18,7 @@
 <foaf:homepage rdf:resource="http://muse.net.nz/"/>
 <foaf:OnlineAccount>
   <foaf:accountName>davecottlehuber</foaf:accountName>
-  <foaf:accountProfilePage rdf:resource="http://twitter.com/davecottlehuber"/>
+  <foaf:accountProfilePage rdf:resource="http://twitter.com/dch__"/>
   <foaf:accountServiceHomepage rdf:resource="http://twitter.com/"/>
 </foaf:OnlineAccount>
 <wot:hasKey><wot:PubKey><wot:fingerprint>E0AF 0A19 4D55 C84E 4A19  A801 CDB0 C0F9 04F4 EE9B</wot:fingerprint>
